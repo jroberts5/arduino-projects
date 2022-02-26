@@ -1,0 +1,14 @@
+HW 13 Project
+
+
+Green led:  < 3V
+Yellow led: 3-4 V
+Red Led: 4+V
+
+
+--------------
+
+Takeaway
+- The + and - on the sides of the breadboard lets you have multiple connections of the same source. The - lets you have multiple ground connections instead of just the few on the arduino uno.
+
+- Potentiometer has two at least 3 pins: 1 - comes from (+ - Voltage source or 5V pin) 2 - goes to (- or ground) and the third pin splits both of them which goes into the analog input pin for voltage reading.

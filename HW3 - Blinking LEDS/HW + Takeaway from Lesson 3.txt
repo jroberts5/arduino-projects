@@ -1,0 +1,8 @@
+HW Assignment:
+- Make 3 leds blinks on the breadboard. A red led that blinks 5 times, a green led that blinks 10 times, and a blue led that blinks 15 times
+
+Takeaway from Lesson 3:
+- Pins on arudino gives voltage
+- You need to set resistor on the same circuit level(?) as the voltage
+- From the other end of the resistor, connect to the Long side of the led. The short side connects to ground.
+- (+) is voltage and (-) is ground
