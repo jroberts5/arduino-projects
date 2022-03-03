@@ -1,0 +1,4 @@
+Binary Number Counter
+
+
+Create a circuit with the arduino to make a binary number counter that counts up to the number 15:
